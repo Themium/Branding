@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#2d2d31;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#5f6670;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="179.4863"
+       y1="213.95306"
+       x2="238.99715"
+       y2="325.87671"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44.4114,-27.281289)" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.00029317165"
+       y="-0.00017350975"
+       width="1.0005863"
+       height="1.000347">
+      <feGaussianBlur
+         stdDeviation="0.015484527"
+         id="feGaussianBlur2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter3"
+       x="-0.25082668"
+       y="-0.14844845"
+       width="1.5016534"
+       height="1.2968969">
+      <feGaussianBlur
+         stdDeviation="13.247981"
+         id="feGaussianBlur3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.087789893"
+       y="-0.064487253"
+       width="1.1755798"
+       height="1.1289745">
+      <feGaussianBlur
+         stdDeviation="3.3042302"
+         id="feGaussianBlur4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5"
+       x="-1.0713332"
+       y="-0.7869623"
+       width="3.1426664"
+       height="2.5739246">
+      <feGaussianBlur
+         stdDeviation="40.322769"
+         id="feGaussianBlur5" />
+    </filter>
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(44.4114,-27.281289)"
+       x1="179.4863"
+       y1="213.95306"
+       x2="238.99715"
+       y2="325.87671" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g4">
+      <g
+         id="g5">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.742px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.96978;fill:#20c7d9;fill-opacity:1;stroke-width:20.4659"
+           x="271.40543"
+           y="405.97922"
+           id="text2"
+           transform="scale(0.95552061,1.0465499)"><tspan
+             id="tspan2"
+             x="271.40543"
+             y="405.97922"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.742px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:20.4659">#</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.742px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.96978;fill:#20c7d9;fill-opacity:1;stroke-width:20.4659;filter:url(#filter4)"
+           x="271.40543"
+           y="405.97922"
+           id="text4"
+           transform="scale(0.95552061,1.0465499)"><tspan
+             id="tspan4"
+             x="271.40543"
+             y="405.97922"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.742px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:20.4659">#</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.742px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:0.96978;fill:#20c7d9;fill-opacity:1;stroke-width:20.4659;filter:url(#filter5)"
+           x="271.40543"
+           y="405.97922"
+           id="text5"
+           transform="scale(0.95552061,1.0465499)"><tspan
+             id="tspan5"
+             x="271.40543"
+             y="405.97922"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:178.742px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:20.4659">#</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:218.341px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient3);fill-opacity:1;stroke-width:25;filter:url(#filter2)"
+         x="107.22181"
+         y="319.12766"
+         id="text1"
+         transform="matrix(1.8324735,0.07292689,-0.07292689,1.8324735,-191.11814,-207.11791)"><tspan
+           id="tspan1"
+           x="107.22181"
+           y="319.12766"
+           style="fill:url(#linearGradient3)">⚡</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:218.341px;font-family:'Berlin Sans FB';-inkscape-font-specification:'Berlin Sans FB, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;mix-blend-mode:normal;fill:url(#linearGradient2);fill-opacity:1;stroke-width:25;filter:url(#filter3)"
+         x="107.22181"
+         y="319.12766"
+         id="text3"
+         transform="matrix(1.8324735,0.07292689,-0.07292689,1.8324735,-191.11814,-207.11791)"><tspan
+           id="tspan3"
+           x="107.22181"
+           y="319.12766"
+           style="fill:url(#linearGradient2)">⚡</tspan></text>
+    </g>
+  </g>
+</svg>
